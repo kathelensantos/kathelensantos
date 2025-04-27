@@ -1,10 +1,9 @@
 
-
 ### Olá sou a kathelen santos  🖐️🖐️🖐️
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=)
 
-[![kathelen most linguage](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelensantos&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![kathelen most linguage](https://github-readme-stats.vercel.app/api/top-langs/?username=kathelensantos&layout=donut)](https://github.com/kathelensantos/github-readme-stats)
 
 ## Tecnologias que  estudo
 
